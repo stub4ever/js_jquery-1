@@ -1,0 +1,1 @@
+var greeting="bonjour ",name="Quoc",WelcomeMessage=greeting+name+"!",elMessage=document.getElementById("greeting");elMessage.textContent=WelcomeMessage;
