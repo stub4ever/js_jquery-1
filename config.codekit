@@ -79,6 +79,210 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/c2_basic_js\/1.number-variable.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/1.number-variable.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c2_basic_js\/2.string-variable.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/2.string-variable.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c2_basic_js\/3.string-quotes.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/3.string-quotes.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c2_basic_js\/css\/c02.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/css\/c02.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c2_basic_js\/images\/custom-sign.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2950,
+		"inputAbbreviatedPath": "\/c2_basic_js\/images\/custom-sign.png",
+		"outputAbbreviatedPath": "\/c2_basic_js\/images\/custom-sign.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/c2_basic_js\/images\/elderflower-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6793,
+		"inputAbbreviatedPath": "\/c2_basic_js\/images\/elderflower-logo.png",
+		"outputAbbreviatedPath": "\/c2_basic_js\/images\/elderflower-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/c2_basic_js\/images\/hobart.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 211840,
+		"inputAbbreviatedPath": "\/c2_basic_js\/images\/hobart.jpg",
+		"outputAbbreviatedPath": "\/c2_basic_js\/images\/hobart.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/c2_basic_js\/images\/paper-background.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4757,
+		"inputAbbreviatedPath": "\/c2_basic_js\/images\/paper-background.png",
+		"outputAbbreviatedPath": "\/c2_basic_js\/images\/paper-background.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/c2_basic_js\/images\/preview.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8962,
+		"inputAbbreviatedPath": "\/c2_basic_js\/images\/preview.jpg",
+		"outputAbbreviatedPath": "\/c2_basic_js\/images\/preview.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/c2_basic_js\/images\/tick-cross.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1673,
+		"inputAbbreviatedPath": "\/c2_basic_js\/images\/tick-cross.png",
+		"outputAbbreviatedPath": "\/c2_basic_js\/images\/tick-cross.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/c2_basic_js\/images\/toggle.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3445,
+		"inputAbbreviatedPath": "\/c2_basic_js\/images\/toggle.png",
+		"outputAbbreviatedPath": "\/c2_basic_js\/images\/toggle.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/c2_basic_js\/js\/1.number-variable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/1.number-variable.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/1.number-variable-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/2.string-variable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/2.string-variable.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/2.string-variable-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/3.string-quotes.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/3.string-quotes.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/3.string-quotes-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/min\/1.number-variable-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/min\/1.number-variable-min.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/min\/1.number-variable-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/min\/2.string-variable-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/min\/2.string-variable-min.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/min\/2.string-variable-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/min\/3.string-quotes-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/min\/3.string-quotes-min.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/min\/3.string-quotes-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/sale.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/sale.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c2_basic_js\/scss\/c02.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/scss\/c02.scss",
+		"outputAbbreviatedPath": "\/c2_basic_js\/css\/c02.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
 		}
 	},
 "hooks": [

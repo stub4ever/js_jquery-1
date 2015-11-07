@@ -1,0 +1,1 @@
+var username,message;username="Quoc",message="Whoop the button!";var elName=document.getElementById("name");elName.textContent=username;var elNote=document.getElementById("note");elNote.textContent=message;
