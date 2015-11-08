@@ -1,0 +1,1 @@
+var price,quantity,total;price=5,quantity=14,total=price*quantity;var elTotal=document.GetElementById("cost");elTotal.textContent="$"+total;

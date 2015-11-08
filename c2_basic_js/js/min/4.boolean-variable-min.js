@@ -1,0 +1,1 @@
+var inStock,shipping;inStock=!0,shipping=!1;var elStock=document.getElementById("stock");elStock.className=inStock;var elShip=document.GetElementById("shippping");elShip.className=shipping;

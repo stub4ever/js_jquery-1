@@ -107,6 +107,42 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/c2_basic_js\/4.boolean-variable.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/4.boolean-variable.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c2_basic_js\/5.shorthand-variable.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/5.shorthand-variable.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c2_basic_js\/6.update-variable.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/6.update-variable.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c2_basic_js\/7.array-constructor.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/7.array-constructor.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/c2_basic_js\/css\/c02.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -226,6 +262,50 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/c2_basic_js\/js\/4.boolean-variable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/4.boolean-variable.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/4.boolean-variable-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/5.shorthand-variable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/5.shorthand-variable.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/5.shorthand-variable-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/6.update-variable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/6.update-variable.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/6.update-variable-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/7.array-constructor.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/7.array-constructor.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/7.array-constructor-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/c2_basic_js\/js\/min\/1.number-variable-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -254,6 +334,50 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/c2_basic_js\/js\/min\/3.string-quotes-min.js",
 		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/min\/3.string-quotes-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/min\/4.boolean-variable-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/min\/4.boolean-variable-min.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/min\/4.boolean-variable-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/min\/5.shorthand-variable-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/min\/5.shorthand-variable-min.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/min\/5.shorthand-variable-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/min\/6.update-variable-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/min\/6.update-variable-min.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/min\/6.update-variable-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/min\/7.array-constructor-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/min\/7.array-constructor-min.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/min\/7.array-constructor-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

@@ -1,0 +1,1 @@
+var colors;colors=["white","black","custom"];var elColor=document.getElementById("colors");elColor.textContent=colors[2];
