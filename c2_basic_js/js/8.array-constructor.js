@@ -1,13 +1,13 @@
 // Create and name the variable.
 // Tell the interpreter it is an array.
 // Assign values inside the parentheses.
-var colors;
-colors = ['white', 'black', 'custom'];
+var colors = new Array('white', 
+                       'black',
+                       'custom');
 
 // Show the first item from the array.
-var elColor = document.getElementById('colors');
-elColor.textContent = colors[2];
-
+var el = document.getElementById('colors');
+el.textContent = colors[2];
 
 /* 
 NOTE: textContent does not work in IE8 or earlier

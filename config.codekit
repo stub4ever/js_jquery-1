@@ -89,11 +89,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/c2_basic_js\/10.string-operator.html": {
+	"\/c2_basic_js\/10.arithmetic-operator.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/c2_basic_js\/10.string-operator.html",
+		"inputAbbreviatedPath": "\/c2_basic_js\/10.arithmetic-operator.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c2_basic_js\/11.string-operator.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/11.string-operator.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -143,29 +152,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/c2_basic_js\/7.array-constructor.html": {
+	"\/c2_basic_js\/7.array-literal.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/c2_basic_js\/7.array-constructor.html",
+		"inputAbbreviatedPath": "\/c2_basic_js\/7.array-literal.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/c2_basic_js\/8.update_array.html": {
+	"\/c2_basic_js\/8.array-constructor.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/c2_basic_js\/8.update_array.html",
+		"inputAbbreviatedPath": "\/c2_basic_js\/8.array-constructor.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/c2_basic_js\/9.arithmetic-operator.html": {
+	"\/c2_basic_js\/9.update_array.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/c2_basic_js\/9.arithmetic-operator.html",
+		"inputAbbreviatedPath": "\/c2_basic_js\/9.update_array.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -256,6 +265,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/c2_basic_js\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/c2_basic_js\/js\/1.number-variable.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -267,12 +285,23 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/c2_basic_js\/js\/10.string-operator.js": {
+	"\/c2_basic_js\/js\/10.arithmetic-operator.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/c2_basic_js\/js\/10.string-operator.js",
-		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/10.string-operator-min.js",
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/10.arithmetic-operator.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/10.arithmetic-operator-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/11.string-operator.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/11.string-operator.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/11.string-operator-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -333,34 +362,34 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/c2_basic_js\/js\/7.array-constructor.js": {
+	"\/c2_basic_js\/js\/7.array-literal.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/c2_basic_js\/js\/7.array-constructor.js",
-		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/7.array-constructor-min.js",
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/7.array-literal.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/7.array-literal-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/c2_basic_js\/js\/8.update_array.js": {
+	"\/c2_basic_js\/js\/8.array-constructor.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/c2_basic_js\/js\/8.update_array.js",
-		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/8.update_array-min.js",
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/8.array-constructor.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/8.array-constructor-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/c2_basic_js\/js\/9.arithmetic-operator.js": {
+	"\/c2_basic_js\/js\/9.update_array.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/c2_basic_js\/js\/9.arithmetic-operator.js",
-		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/9.arithmetic-operator-min.js",
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/9.update_array.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/9.update_array-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -454,6 +483,28 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/c2_basic_js\/js\/min\/7.array-literal-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/min\/7.array-literal-min.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/min\/7.array-literal-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/min\/8.array-constructor-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/min\/8.array-constructor-min.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/min\/8.array-constructor-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/c2_basic_js\/js\/min\/8.update_array-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -505,6 +556,62 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/c2_basic_js\/scss\/c02.scss",
 		"outputAbbreviatedPath": "\/c2_basic_js\/css\/c02.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/c3_functions_methods_objects\/css\/c3.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/css\/c3.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/images\/check-cross.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1441,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/images\/check-cross.png",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/images\/check-cross.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/c3_functions_methods_objects\/images\/travelworthy-backdrop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 544492,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/images\/travelworthy-backdrop.jpg",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/images\/travelworthy-backdrop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/c3_functions_methods_objects\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/scss\/c3.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/scss\/c3.scss",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/css\/c3.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

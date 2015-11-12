@@ -1,6 +1,6 @@
 var greeting = 'Bonjour! ';
 var user = ' Quoc!';
-var message = ' Nice have you here, ';
+var message = ' Nice to have you here, ';
 
 var welcome = greeting + message + user;
 
