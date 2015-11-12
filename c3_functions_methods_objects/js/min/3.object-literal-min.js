@@ -1,0 +1,1 @@
+var hotel={name:"Stuboki",rooms:122,booked:77,checkAvailability:function(){return this.rooms-this.booked}},elName=document.getElementById("hotelName");elName.textContent=hotel.name;var elRooms=document.getElementById("rooms");elRooms.textContent=hotel.rooms;

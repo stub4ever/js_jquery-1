@@ -1,0 +1,1 @@
+var hotel=new Object;hotel.name="Quoc place",hotel.rooms=100,hotel.booked=30,hotel.checkAvailability=function(){return this.rooms-this.booked};var elName=document.getElementById("hotelName");elName.innerHTML=hotel.name;var elRooms=document.getElementById("rooms");elRooms.innerHTML=hotel.checkAvailability();

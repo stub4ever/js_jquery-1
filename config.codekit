@@ -563,11 +563,56 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/c3_functions_methods_objects\/css\/c3.css": {
+	"\/c3_functions_methods_objects\/1.basic-function.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/1.basic-function.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/2.object-literal.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/2.object-literal.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/3.object-literal2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/3.object-literal2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/4.object-constructor.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/4.object-constructor.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/5.multiple-objects.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/5.multiple-objects.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/css\/c03.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/css\/c3.css",
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/css\/c03.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -603,15 +648,125 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/c3_functions_methods_objects\/scss\/c3.scss": {
+	"\/c3_functions_methods_objects\/js\/1.basic-function.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/1.basic-function.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/1.basic-function-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/2.object-literal.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/2.object-literal.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/2.object-literal-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/3.object-literal.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/3.object-literal.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/3.object-literal-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/4.object-constructor.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/4.object-constructor.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/4.object-constructor-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/5.multiple-objects.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/5.multiple-objects.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/5.multiple-objects-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/1.basic-function-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/1.basic-function-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/1.basic-function-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/2.object-literal-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/2.object-literal-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/2.object-literal-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/3.object-literal-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/3.object-literal-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/3.object-literal-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/4.object-constructor-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/4.object-constructor-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/4.object-constructor-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/5.multiple-objects-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/5.multiple-objects-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/5.multiple-objects-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/scss\/c03.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/scss\/c3.scss",
-		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/css\/c3.css",
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/scss\/c03.scss",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/css\/c03.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

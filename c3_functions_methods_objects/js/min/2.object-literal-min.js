@@ -1,0 +1,1 @@
+var hotel={name:"Quoc",rooms:13,booked:1990,checkAvailability:function(){return this.rooms-this.booked}},elName=document.getElementById("hotelName");elName.textContent=hotel.name;var elRooms=document.getElementById("rooms");elRooms.textContent=hotel.rooms;
