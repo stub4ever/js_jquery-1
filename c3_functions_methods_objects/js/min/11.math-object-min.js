@@ -1,0 +1,1 @@
+var randomNum=Math.floor(10*Math.random()+1),elRand=document.getElementById("info");elRand.innerHTML="<h2>random number </h2><p>"+randomNum+"</p>";

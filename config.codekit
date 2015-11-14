@@ -107,6 +107,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/c2_basic_js\/12.example.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/12.example.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/c2_basic_js\/2.string-variable.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -302,6 +311,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/c2_basic_js\/js\/11.string-operator.js",
 		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/11.string-operator-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c2_basic_js\/js\/12.example.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c2_basic_js\/js\/12.example.js",
+		"outputAbbreviatedPath": "\/c2_basic_js\/js\/min\/12.example-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -572,6 +592,51 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/c3_functions_methods_objects\/10.number-object.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/10.number-object.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/11.math-object.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/11.math-object.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/12.date-object.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/12.date-object.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/13.date-object-difference.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/13.date-object-difference.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/14.example.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/14.example.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/c3_functions_methods_objects\/2.object-literal.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -604,6 +669,42 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/5.multiple-objects.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/6.adding-and-removing-properties.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/6.adding-and-removing-properties.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/7.window-object.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/7.window-object.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/8.document-object.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/8.document-object.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/c3_functions_methods_objects\/9.string-object.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/9.string-object.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -659,6 +760,61 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/c3_functions_methods_objects\/js\/10.number-object.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/10.number-object.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/10.number-object-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/11.math-object.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/11.math-object.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/11.math-object-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/12.date-object.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/12.date-object.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/12.date-object-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/13.date-object-difference.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/13.date-object-difference.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/13.date-object-difference-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/14.example.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/14.example.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/14.example-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/c3_functions_methods_objects\/js\/2.object-literal.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -703,12 +859,111 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/c3_functions_methods_objects\/js\/6.adding-and-removing-properties.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/6.adding-and-removing-properties.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/6.adding-and-removing-properties-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/7.window-object.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/7.window-object.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/7.window-object-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/8.document-object.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/8.document-object.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/8.document-object-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/9.string-object.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/9.string-object.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/9.string-object-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/c3_functions_methods_objects\/js\/min\/1.basic-function-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/1.basic-function-min.js",
 		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/1.basic-function-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/10.number-object-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/10.number-object-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/10.number-object-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/11.math-object-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/11.math-object-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/11.math-object-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/12.date-object-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/12.date-object-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/12.date-object-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/13.date-object-difference-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/13.date-object-difference-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/13.date-object-difference-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/14.example-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/14.example-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/14.example-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -758,6 +1013,50 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/c3_functions_methods_objects\/js\/min\/6.adding-and-removing-properties-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/6.adding-and-removing-properties-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/6.adding-and-removing-properties-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/7.window-object-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/7.window-object-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/7.window-object-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/8.document-object-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/8.document-object-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/8.document-object-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c3_functions_methods_objects\/js\/min\/9.string-object-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/9.string-object-min.js",
+		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/js\/min\/min\/9.string-object-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/c3_functions_methods_objects\/scss\/c03.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -767,62 +1066,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/c3_functions_methods_objects\/scss\/c03.scss",
 		"outputAbbreviatedPath": "\/c3_functions_methods_objects\/css\/c03.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/exercises\/basic_js\/basic_js.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/exercises\/basic_js\/basic_js.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/exercises\/basic_js\/css\/application.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/exercises\/basic_js\/css\/application.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/exercises\/basic_js\/js\/application.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/exercises\/basic_js\/js\/application.js",
-		"outputAbbreviatedPath": "\/exercises\/basic_js\/js\/min\/application-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/exercises\/basic_js\/js\/min\/application-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/exercises\/basic_js\/js\/min\/application-min.js",
-		"outputAbbreviatedPath": "\/exercises\/basic_js\/js\/min\/min\/application-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/exercises\/basic_js\/scss\/application.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/exercises\/basic_js\/scss\/application.scss",
-		"outputAbbreviatedPath": "\/exercises\/basic_js\/css\/application.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

@@ -1,0 +1,1 @@
+var today=new Date,year=today.getFullYear(),est=new Date("Apr 16, 1996 15:45:55"),difference=today.getTime()-est.getTime();difference/=315569e5;var elMsg=document.getElementById("message");elMsg.innerHTML=Math.floor(difference)+" years of online travel advice";

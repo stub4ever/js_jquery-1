@@ -1,0 +1,1 @@
+var today=new Date,year=today.getFullYear(),elFooter=document.getElementById("footer");elFooter.innerHTML="<p>Copyright &copy;"+year+"</p>";
